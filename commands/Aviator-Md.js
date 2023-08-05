@@ -22,7 +22,7 @@
    * @author : Suhail Tech Info
    * @youtube : https://www.youtube.com/c/@SuhailTechInfo0
    * @description : Aviator-Md ,A Multi-functional whatsapp user bot.
-   * @version 1.0.0
+   * @version 0.0.1
 *
    * Licensed under the  GPL-3.0 License;
 * 
