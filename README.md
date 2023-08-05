@@ -29,4 +29,4 @@ Meet Aviator_md, Your All-in-One WhatsApp Excitement Buddy!  Enjoy a thrilling m
 
 
 
-***[`Testing by Suhail_Tech..`](https://repl.it/github/SuhailTechInfo/Secktor-bot)***
+***[`Testing by Suhail_Tech..`](https://repl.it/github/SuhailTechInfo/Aviator-Md)***
