@@ -14,7 +14,7 @@ global.allowJids = process.env.ALLOW_JID || '120363022922797633@g.us';
 global.THUMB_IMAGE = process.env.BOT_PIC || 'https://i.imgur.com/NpA3ZsJ.jpeg';
 global.url  =  process.env.YOUR_SITE_URL || 'https://youtube.com/c/SuhailTechInfo'; 
 global.github  = process.env.YOUR_GITHUB || 'https://github.com/SuhailTechInfo/Aviator-Md';
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority";
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Suhail:suhail@cluster0.rzhkoqf.mongodb.net/?retryWrites=true&w=majority";
 
 module.exports = {
 

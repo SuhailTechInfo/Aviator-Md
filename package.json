@@ -47,8 +47,8 @@
             "node-webpmux": "^3.1.0",
             "google-tts-api": "^2.0.2",
             "path": "^0.12.7",
-
-    "qrcode-terminal": "^0.12.0",
+     "@bochilteam/scraper":"latest",
+     "qrcode-terminal": "^0.12.0",
      "aptoide-scraper":"^1.0.1",
      "fb-info-video":"^1.0.2",
      "heroku-client":"3.1.0",
