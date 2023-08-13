@@ -110,14 +110,14 @@
           async(Aviator, msg) => {
               const { commands } = require('../lib');
               let str = `
-  ╭━━〘 *${Config.botname}* 〙────⊷     
-  ┃ ✭ *Theme:* ${lang().title}
-  ┃ ✭ *Prefix:* ${prefix}
-  ┃ ✭ *Owner:* ${Config.ownername}
-  ┃ ✭ *Commands:* ${commands.length}
-  ┃ ✭ *Uptime:* ${runtime(process.uptime())}
-  ┃ ✭ *Mem:* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-  ╰━━━━━━━━━━━━━━⊷\n`
+╭━━〘 *${Config.botname}* 〙────⊷     
+┃ ✭ *Theme:* ${lang().title}
+┃ ✭ *Prefix:* ${prefix}
+┃ ✭ *Owner:* ${Config.ownername}
+┃ ✭ *Commands:* ${commands.length}
+┃ ✭ *Uptime:* ${runtime(process.uptime())}
+┃ ✭ *Mem:* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+╰━━━━━━━━━━━━━━⊷\n`
   
               for (let i = 0; i < commands.length; i++) 
               {
@@ -210,4 +210,8 @@
   
   
   })
+
+  //=========================================================
+
+  
   
