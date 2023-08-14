@@ -2,11 +2,11 @@
     "name": "aviator-md",
     "version": "0.0.1",
     "description": "Multi device whatsapp bot by SuhailTechInfo.",
-    "main": "lib/Aviator.js",
+    "main": "lib/client.js",
     "type": "commonjs",
     "license": "GPL-3.0",
 "scripts": {
-     "start": "pm2 start lib/Aviator-Md.js --deep-monitoring --attach --name Aviator-Md",
+     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Aviator-Md",
      "stop": "pm2 stop Aviator-Md"
      },
     "author": "SuhailTechInfo",
