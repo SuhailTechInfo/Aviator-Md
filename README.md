@@ -5,7 +5,7 @@
 ---
  1. ***Status : Not Ready.***
  2. ***Started: 05-Aug-23***
- 3. ***Auther : Suhail Tech***
+ 3. ***Author : Suhail Tech***
  4. Suggest Me Ideas For ***Aviator-Md***
  5.  Contact on [`Whatsapp`](https://wa.me/923184474176)
 ##
